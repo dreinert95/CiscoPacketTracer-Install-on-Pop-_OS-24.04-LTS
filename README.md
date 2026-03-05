@@ -28,6 +28,9 @@ Pop!_OS uses Wayland by default, therefore we must enforce the use of X11.
 - Packet Tracer 9.x bundles an older Chromium engine and expects:
 
 Older fontconfig layout
+
 X11 display server
+
 Older Qt libraries
+
 Ubuntu 24.04 / Pop 24.04 changed several of those.
